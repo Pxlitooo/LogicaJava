@@ -27,6 +27,5 @@ public class Condicional {
             System.out.println("saldo insuficiente");
         }
 
-
     }
 }
